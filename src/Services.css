@@ -1,0 +1,36 @@
+.forpatients{
+    background-color: #00ccb1;
+    
+}
+.fordoctors{
+    background-color:#3d83df;
+}
+.service{
+    display: flex;
+    justify-content: space-around;
+}
+.helloImage{
+    width:400px;
+    height:250px ;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+.forpatients{
+    width:500px;
+    height: 410px;
+
+    overflow: hidden;
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.fordoctors{
+    width:500px;
+    height: 410px;
+
+    overflow: hidden;
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}

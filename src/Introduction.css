@@ -1,0 +1,20 @@
+.lead__logo{
+    display: block;
+    margin: 0 auto;
+}
+.lead__title{
+    text-align: center;
+   color:  #00b39b;
+}
+.grid{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin-left: 340px;
+    color: #747474;
+}
+.grid p {
+    margin: .8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}

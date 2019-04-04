@@ -1,0 +1,18 @@
+.header{
+display: flex;
+justify-content: space-around;}  
+.logo-docplanner{
+    width: 300px;
+    height: 60px;
+}
+.navBar{
+    margin:20px;
+}
+.navBar a{
+    text-decoration: none;
+    list-style: none;
+    padding: 10px;
+    color : #747474;
+    
+
+}
